@@ -39,5 +39,5 @@ This template comes ready with all core dependencies installed and configured, s
 
 🌐 Live Demo
 
-Coming soon or add your deployed link here
+https://zakyouse.netlify.app/
 
