@@ -1,0 +1,14 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@font-face {
+    font-family: Agraham;
+    src: url("../fonts/Agraham.otf");
+}
+#root{
+    font-family: Teachers,sans-serif;
+}
+header{
+    padding:0px 4px 0px 4px !important;
+}
